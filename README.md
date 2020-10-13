@@ -1,5 +1,6 @@
 ### Hyuri Maciel 👋
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hyuri-maciel-538156aa/)
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyuri-maciel-538156aa/)
 
 
 #### mortar_board: Graduating in Computer Science at Federal University of Alagoas (UFAL)
