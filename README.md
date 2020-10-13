@@ -1,7 +1,7 @@
 ### Hyuri Maciel 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuriMaciel&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuriMaciel&theme=react&show_icons=true)
 
 
 <!--
