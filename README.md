@@ -6,7 +6,7 @@
   
 :email: smhyuri@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuriMaciel&theme=react&show_icons=true)
+
 
 
 
